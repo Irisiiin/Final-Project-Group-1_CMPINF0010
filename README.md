@@ -14,4 +14,4 @@ This is a repository for final project of CMPINF0010, the collaborators are Iris
 |Zixin Ye| ziy49@pitt.edu | Allegheny County Restaurant/Food Facility Inspections and Locations | https://data.wprdc.org/dataset/allegheny-county-restaurant-food-facility-inspection-violations | This dataset contains details on health inspection violations and locations of food facilities in Allegheny County from January 2016 onwards, updated monthly. |
 
 ## What does the project do?
-Find out the best neighborhood in Pittsburgh through those datasets. 
+Find out the best neighborhood in Pittsburgh through those datasets (with two methods)
